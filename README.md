@@ -13,35 +13,34 @@ These blogs cover core web fundamentals including HTML, CSS, DNS, browser workin
   
 
 ## CSS
-- Introduction to CSS and Selectors  
+- Introduction to CSS and Selectors:  
   https://git-basics-as-beginners.hashnode.dev/understanding-css-selectors
 
 ## Networking & Browser
-- Understanding Network Devices
+- Understanding Network Devices:
   https://git-basics-as-beginners.hashnode.dev/how-internet-and-network-devices-work-together
-- How a Browser Works
+- How a Browser Works:
   https://git-basics-as-beginners.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals
-- Getting Started with cURL
+- Getting Started with cURL:
   https://git-basics-as-beginners.hashnode.dev/what-is-curl-and-how-it-is-used
-- DNS Record Types Explained
+- DNS Record Types Explained:
   https://git-basics-as-beginners.hashnode.dev/dns-and-dns-records-explained
-- How DNS Resolution Works
+- How DNS Resolution Works:
   https://git-basics-as-beginners.hashnode.dev/understanding-dns-resolution-and-the-dig-command
-- TCP vs UDP
+- TCP vs UDP:
   https://git-basics-as-beginners.hashnode.dev/understanding-tcp-udp-and-http
-- TCP Working
+- TCP Working:
   https://git-basics-as-beginners.hashnode.dev/understanding-tcp-and-three-way-handshake
   
 ## Git & Version Control
-- Git Basics for Beginners
+- Git Basics for Beginners:
   https://git-basics-as-beginners.hashnode.dev/understanding-git-basics-as-a-beginner
-- Understanding Git Workflow
+- Understanding Git Workflow:
   https://git-basics-as-beginners.hashnode.dev/understanding-how-git-works-internally
-- Why Version Control Exists
+- Why Version Control Exists:
   https://git-basics-as-beginners.hashnode.dev/why-version-control-exists-understanding-the-pendrive-problem
 ---
 
 ## Blog Platform
-All blogs are published on Hashnode:  
-git-basics-as-beginners.hashnode.dev
+All blogs are published on Hashnode:  git-basics-as-beginners.hashnode.dev
 
