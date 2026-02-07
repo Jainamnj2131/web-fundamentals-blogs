@@ -42,5 +42,5 @@ These blogs cover core web fundamentals including HTML, CSS, DNS, browser workin
 ---
 
 ## Blog Platform
-All blogs are published on Hashnode:  git-basics-as-beginners.hashnode.dev
+All blogs are published on Hashnode:[git-basics-as-beginners.hashnode.dev](https://git-basics-as-beginners.hashnode.dev/)
 
